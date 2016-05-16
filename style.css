@@ -1,0 +1,155 @@
+*{
+    padding:0; margin:0;
+}
+
+img {
+    border: 0;
+}
+
+body{
+    font-family: "Verdana", Times, serif;
+}
+
+.main{
+    width:950px; margin:0 auto;
+}
+
+.main h1 {
+    margin-bottom: 20px; font-size: 28px; font-weight: Bold;
+}
+
+.main p {
+    margin-bottom: 20px; font-size: 14px; font-weight: normal;
+}
+
+header {
+    padding:30px 0 0 0;
+}
+
+.main-content {
+    overflow: hidden;
+}
+
+.main-content h1 {
+    margin-bottom: 20px; font-size: 24px; font-weight: normal;
+}
+
+.main-content h2 {
+    margin-bottom: 20px; font-size: 21px; font-weight: normal;
+}
+
+.main-content p {
+    margin-bottom: 20px;
+}
+
+article {
+    width:420px; padding:30px 30px 32000px 30px; float: left; background: #fff; margin-bottom: -32000px;
+}
+
+aside {
+    float: right; background: #ffffff; width: 421px; padding:30px 10px 32000px 30px; margin-bottom: -32000px;
+    }
+
+p span{
+   color: #346702;
+}
+
+.orang_nadp{
+    color: #f17502;
+}
+
+
+aside .sit{
+    font-size: 14px; font-weight: Bold;
+}
+
+aside .Ut{
+    font-size: 12px; font-weight: normal;
+}
+
+.orang{
+    border: 1px solid orangered;
+    padding: 10px;
+}
+
+
+.f_chisl{
+    font-size: 18px; font-weight: Bold;
+    color: black;
+    text-decoration: line-through;
+}
+
+.s_chisl{
+    font-size: 18px; font-weight: Bold;
+    color: red;
+}
+
+.t_chisl{
+    font-size: 14px; font-weight: normal;
+    color: red;
+}
+
+.firsstrok{
+    margin-top: 20px;
+}
+
+.ch_chisl{
+    font-size: 14px; font-weight: Bold;
+    color: black;
+}
+
+.fiv_chisl{
+    font-size: 14px; font-weight: Bold;
+    color: red;
+}
+
+.six_chisl{
+    font-size: 12px; font-weight: normal;
+    color: green;
+}
+
+
+#6oz{
+    font-size: 14px; font-weight: normal;
+}
+
+.fiol_Save{
+    font-size: 14px; font-weight: Bold;
+    color:purple;
+}
+
+
+.Details{
+    font-size: 12px; font-weight: normal;
+    color:green;
+}
+
+.title_custom{
+    font-size: 16px; font-weight: Bold;
+}
+
+.custom_1{
+    margin-top: 20px;
+}
+
+.custom_2{
+    margin-top: 20px;
+}
+
+.custom_3{
+    margin-top: 20px;
+}
+
+select{
+    padding: 5px 60px 5px 5px;
+}
+
+.custom{
+ float: left;
+}
+
+.radio_butt{
+float: right;
+margin-right: 35px;
+margin-top: 20px;
+}
